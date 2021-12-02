@@ -1,0 +1,25 @@
+{
+  "name": "matrixdashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Mohit",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.680.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "memory-cache": "^0.2.0",
+    "moment": "^2.24.0",
+    "mongodb": "^3.1.13",
+    "mssql": "^4.3.7",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.4.6",
+    "request": "^2.88.0",
+    "underscore": "^1.9.1"
+  }
+}
