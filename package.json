@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Mohit",
+  "author": "Keshav",
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.680.0",
